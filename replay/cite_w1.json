@@ -1,0 +1,254 @@
+{
+ "fable": {
+  "sampled": 10,
+  "pool": 108,
+  "counts": {
+   "unreachable": 3,
+   "supported": 4,
+   "partial": 3
+  },
+  "cost": 0.0709378,
+  "denials": 0,
+  "detail": [
+   {
+    "n": 1,
+    "verdict": "unreachable",
+    "evidence": "HTTP 403 Forbidden으로 페이지를 읽을 수 없음. 추측하지 않음."
+   },
+   {
+    "n": 2,
+    "verdict": "supported",
+    "evidence": "원작은 Major 기술 레벨업 후 수면, 리마스터는 모든 기술 계열이 XP를 주고 플레이어가 능력치를 고른다고 서술. Nesmith 인용문 \"They actually went ahead and changed the game design underneath\"도 그대로 있음."
+   },
+   {
+    "n": 3,
+    "verdict": "unreachable",
+    "evidence": "HTTP 404 Not Found로 페이지를 읽을 수 없음. 추측하지 않음."
+   },
+   {
+    "n": 4,
+    "verdict": "supported",
+    "evidence": "위키에 \"Due to both negative feedback and a lack of understanding within Square's staff outside Kawazu himself\"가 있고, 다음 작품 FF III(1990)가 1편의 전통적 시스템으로 돌아갔다고 함. 주장은 인용문 끝부분(\"outside Kawazu himself\")만 생략. 다만 문서의 마지막 약 3.7만 자는 읽지 않았고, 이 문장은 앞부분에서 확인됨."
+   },
+   {
+    "n": 5,
+    "verdict": "partial",
+    "evidence": "읽힌 것은 헤드라인뿐. \"running away won't make them progressively stronger, producer says\"로 리메이크의 도망 완화는 뒷받침됨. SaGa의 전투 횟수 기반 적 강화와 무의미한 전투 이득 감소는 본문이 잘려 확인하지 못함."
+   },
+   {
+    "n": 6,
+    "verdict": "unreachable",
+    "evidence": "HTTP 403 Forbidden으로 페이지를 읽을 수 없음. 추측하지 않음."
+   },
+   {
+    "n": 7,
+    "verdict": "supported",
+    "evidence": "\"it was the least grindy per session, and the most sticky on a week or month basis.\"가 \"So, was it a failure?\" 섹션에 그대로 있음."
+   },
+   {
+    "n": 8,
+    "verdict": "partial",
+    "evidence": "\"the higher your skill, the more it affects your leveling\" 인용과 클래스 제거는 맞음. 그러나 Major/Minor 구분은 언급이 없고, 사용한 기술이 정체성이 된다거나 efficient leveling 유인이 사라진다는 내용도 없음. 기사는 \"self-balances itself\"라고 서술."
+   },
+   {
+    "n": 9,
+    "verdict": "supported",
+    "evidence": "Nesmith: \"I think the world levelling with you was a mistake and that's proven out by the fact it did not happen the same way in Skryim.\" 그리고 Skyrim에서 \"a much, much better way\"를 찾았다고 말함."
+   },
+   {
+    "n": 10,
+    "verdict": "partial",
+    "evidence": "읽힌 것은 헤드라인뿐. 패치 1.5가 Smithing을 수정한다는 점만 확인되고, 제작 개수에서 제작물 가치 기준으로 바뀌었다는 내용은 본문이 잘려 확인하지 못함."
+   }
+  ]
+ },
+ "opus": {
+  "sampled": 10,
+  "pool": 84,
+  "counts": {
+   "unreachable": 2,
+   "supported": 3,
+   "partial": 5
+  },
+  "cost": 0.07229730000000001,
+  "denials": 0,
+  "detail": [
+   {
+    "n": 1,
+    "verdict": "unreachable",
+    "evidence": "HTTP 403 Forbidden으로 페이지를 읽을 수 없었다."
+   },
+   {
+    "n": 2,
+    "verdict": "supported",
+    "evidence": "리다이렉트 후 페이지에 'Grandmaster (100) was once the highest level', 'Legendary (120) if you consume special scrolls', 'limits a player's skill total, so specialization is key'가 모두 있다."
+   },
+   {
+    "n": 3,
+    "verdict": "supported",
+    "evidence": "'tasks deemed overly tedious by real players, such as training a particular skill'가 있다. 스킬 훈련은 여러 예시 중 하나이고, 주된 용도라는 표현은 아니다."
+   },
+   {
+    "n": 4,
+    "verdict": "partial",
+    "evidence": "Power Hour 정의와 샤드 현지 시간 리셋 문제, 플레이 시간 기준으로의 변경은 있다. 다만 리셋이 불편해진 원인은 GMT 전환이었다. 'Publish 13'과 '보너스 스킬 성장'이라는 표현은 페이지에서 직접 확인하지 못했다."
+   },
+   {
+    "n": 5,
+    "verdict": "unreachable",
+    "evidence": "HTTP 403 Forbidden으로 페이지를 읽을 수 없었다."
+   },
+   {
+    "n": 6,
+    "verdict": "partial",
+    "evidence": "'8 attributes and 21 skills → 18 skills and three attributes'와 퍼크 언급은 있다. 그러나 major/minor 제거, Pete Hines 인용문, 전투 스타일 스킬은 페이지에 없다."
+   },
+   {
+    "n": 7,
+    "verdict": "supported",
+    "evidence": "세 인용문이 모두 있고, Jeremy Parish 바이라인과 2017-11-13 날짜, 1UP 2012-10 원출처 표기가 일치한다. 마법을 많이 쓰면 마법사가 된다는 취지의 내용은 직접 확인하지 못했다."
+   },
+   {
+    "n": 8,
+    "verdict": "partial",
+    "evidence": "Howard가 'really nice elegant system that kind of self-balances itself'라고 말한 부분은 있다. Nesmith, GamesRadar, 'much, much better', ES6 유지 발언은 페이지에 없다."
+   },
+   {
+    "n": 9,
+    "verdict": "partial",
+    "evidence": "이 URL은 part one이다. 'You could simply surrender any skill, and go learn another one, when at the cap'는 확인됐다. 직업 목록 조합은 부분적으로만 확인됐고(30개 이상 직업), 스킬 포인트 예산은 없다. 'fundamentally about equality'는 없고 'We needed near equality'만 있다."
+   },
+   {
+    "n": 10,
+    "verdict": "partial",
+    "evidence": "Kawazu가 종족(인간·몬스터·에스퍼)으로 캐릭터를 차별화해 '서로 클론이 되지 않게' 했다고 말한 부분은 있다. 하지만 이 페이지는 Skyrim을 다루지 않아 Skyrim 부분은 이 출처로 뒷받침되지 않는다."
+   }
+  ]
+ },
+ "sonnet": {
+  "sampled": 10,
+  "pool": 68,
+  "counts": {
+   "unreachable": 4,
+   "supported": 4,
+   "partial": 2
+  },
+  "cost": 0.0869212,
+  "denials": 0,
+  "detail": [
+   {
+    "n": 1,
+    "verdict": "unreachable",
+    "evidence": "GameSpot이 HTTP 403을 반환해 본문을 읽지 못했다."
+   },
+   {
+    "n": 2,
+    "verdict": "supported",
+    "evidence": "18개 스킬이 전투·마법·잠행으로 균등 분할되고, 스킬별 경험치 바가 있으며, \"After enough skills level up, the character levels up\"과 속성 3종 중 1개 상향, perk point 지급이 모두 있다. 패치 1.9 Legendary로 레벨 상한이 사실상 제거된다는 문장과 클래스 제거에 대한 평론가 호평(Shibley, Onyett)도 있다. 'perk point 1개'는 'per level'이라는 표현 없이 레벨업과 함께 지급되는 것으로만 서술돼 있다."
+   },
+   {
+    "n": 3,
+    "verdict": "unreachable",
+    "evidence": "Fandom이 HTTP 402를 반환했다. 제시된 URL도 닫는 괄호가 빠진 채 잘려 있다."
+   },
+   {
+    "n": 4,
+    "verdict": "partial",
+    "evidence": "페이지에 헤드라인 \"We got rid of attributes in Skyrim and you know who complained? Almost nobody\"는 있다. 발언자는 'Bethesda veteran'으로만 나와 Nesmith임을 확인할 수 없고, 날짜도 없으며, 읽은 내용이 잘려 본문도 검증하지 못했다."
+   },
+   {
+    "n": 5,
+    "verdict": "supported",
+    "evidence": "\"GD Column 17: Water Finds a Crack\"이고 Game Developer 2011년 3월호로 표기돼 있다. \"any hole a player can possibly find in the game's design will be inevitably abused over and over\" 등 최적화·착취를 일반 원리로 논한다."
+   },
+   {
+    "n": 6,
+    "verdict": "partial",
+    "evidence": "\"A hand-coded advancement rate table will always need to be updated as players discover exploits...\" 문장은 페이지에 있다. 읽은 범위에는 1998년 MUD-Dev 글과 \"hellish\" 표현이 없다. 이 부분은 별도 출처로 인용된 것으로 보이며, 이 페이지로는 확인되지 않는다."
+   },
+   {
+    "n": 7,
+    "verdict": "unreachable",
+    "evidence": "Kenshi Fandom이 HTTP 402를 반환해 읽지 못했다."
+   },
+   {
+    "n": 8,
+    "verdict": "unreachable",
+    "evidence": "turbo-wiki가 Cloudflare Access 로그인 페이지로 302 리다이렉트해 본문을 읽지 못했다."
+   },
+   {
+    "n": 9,
+    "verdict": "supported",
+    "evidence": "Smedley가 NGE를 \"구독자 기반의 악화를 되돌리기 위해 필요했다\"고 옹호했다는 서술이 있다. 스킬 시스템의 구조적 결함을 NGE의 원인으로 진단한 문서는 없다. 마지막 약 14,000자는 읽지 못했다."
+   },
+   {
+    "n": 10,
+    "verdict": "supported",
+    "evidence": "페이지가 사용 기반 스킬 시스템의 설계 문제를 상세히 다룬다. 균일 향상률 문제, 빈도 기반 동적 밸런싱 실패와 매크로, \"8×8 macroing\", 도전 부족으로 인한 그라인딩이 그 예다. '가장 직접적인 개발자 자료'라는 평가는 판단이며, 페이지 후반 약 87,000자는 읽지 못했다."
+   }
+  ]
+ },
+ "haiku": {
+  "sampled": 10,
+  "pool": 30,
+  "counts": {
+   "unreachable": 5,
+   "supported": 4,
+   "partial": 1
+  },
+  "cost": 0.0556544,
+  "denials": 0,
+  "detail": [
+   {
+    "n": 1,
+    "verdict": "unreachable",
+    "evidence": "WebFetch가 HTTP 403을 반환해 페이지를 읽지 못했다."
+   },
+   {
+    "n": 2,
+    "verdict": "unreachable",
+    "evidence": "TV Tropes 페이지가 HTTP 403으로 차단돼 읽지 못했다. StrategyWiki 부분은 이 URL의 대상이 아니다."
+   },
+   {
+    "n": 3,
+    "verdict": "supported",
+    "evidence": "EVE가 \"real time skill training system rather than experience-based advancement\"를 쓰고 오프라인 중에도 진행된다(\"advance even when they're offline\")고 적혀 있다."
+   },
+   {
+    "n": 4,
+    "verdict": "unreachable",
+    "evidence": "Push Square 페이지가 HTTP 403으로 차단돼 읽지 못했다."
+   },
+   {
+    "n": 5,
+    "verdict": "supported",
+    "evidence": "인용문, 제목 \"GD Column 17: Water Finds a Crack\", Game Developer 2011년 3월호, 게재일 2011-06-12가 모두 페이지에 있다."
+   },
+   {
+    "n": 6,
+    "verdict": "unreachable",
+    "evidence": "Substack 페이지가 HTTP 404를 반환해 읽지 못했다."
+   },
+   {
+    "n": 7,
+    "verdict": "supported",
+    "evidence": "\"not a high quality academic publication\"이라 하고, 문헌과 데이터 분석이 \"superficial\"이라고 지적한다."
+   },
+   {
+    "n": 8,
+    "verdict": "partial",
+    "evidence": "Nesmith가 \"aggressively pushed for streamlining\"이라고 말한 내용은 있다. 그러나 TES VI가 Skyrim 진행 시스템 대부분을 유지한다는 발언은 없고, 기자의 추론으로만 나온다."
+   },
+   {
+    "n": 9,
+    "verdict": "unreachable",
+    "evidence": "GamerGuides 페이지가 HTTP 403으로 차단돼 읽지 못했다."
+   },
+   {
+    "n": 10,
+    "verdict": "supported",
+    "evidence": "세 섹션이 모두 있고, \"each time a character successfully uses a skill he or she has the possibility of gaining in that skill\"라고 적혀 있다."
+   }
+  ]
+ }
+}

@@ -1,0 +1,1 @@
+{"id": "x1", "family": "추론", "level": 2, "desc": "클로저·가변 기본 인자 추적", "tools": "none", "budget": 2.5, "timeout": 1500}

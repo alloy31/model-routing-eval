@@ -1,0 +1,1 @@
+{"id": "w1", "family": "웹조사", "level": 3, "desc": "temp 탭에서 Fable이 수행한 실제 웹 조사 지시문 재실행", "tools": "Bash,Read,Edit,Write,Glob,Grep,WebSearch,WebFetch", "budget": 6.0, "timeout": 2400}

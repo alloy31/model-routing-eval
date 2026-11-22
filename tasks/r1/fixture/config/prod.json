@@ -1,0 +1,6 @@
+{
+  "http": {"timeout": 12, "retries": 5},
+  "net": {"request_timeout_s": 8},
+  "features": {"admin_api": false},
+  "pricing": {"fuel_surcharge_pct": 7}
+}

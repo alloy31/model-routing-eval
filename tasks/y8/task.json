@@ -1,0 +1,1 @@
+{"id": "y8", "family": "추론", "level": 6, "desc": "18노드 가중 그래프에서 가장 먼 노드까지의 최단 거리", "tools": "none", "budget": 4.0, "timeout": 2400}

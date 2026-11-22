@@ -1,0 +1,1 @@
+{"id": "x5", "family": "추론", "level": 3, "desc": "n! 끝자리 0이 정확히 2028개 — 존재하지 않음을 알아채기", "tools": "none", "budget": 2.5, "timeout": 1500}

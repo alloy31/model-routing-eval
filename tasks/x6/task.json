@@ -1,0 +1,1 @@
+{"id": "x6", "family": "추론", "level": 4, "desc": "3문자 무작위열에서 ABA가 BAA보다 먼저 나올 확률", "tools": "none", "budget": 2.5, "timeout": 1500}

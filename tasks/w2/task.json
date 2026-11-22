@@ -1,0 +1,1 @@
+{"id": "w2", "family": "종합보고서", "level": 4, "desc": "temp 탭에서 Fable이 쓴 실제 종합 보고서 지시문 재실행", "tools": "Bash,Read,Edit,Write,Glob,Grep", "budget": 8.0, "timeout": 2400}

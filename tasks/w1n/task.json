@@ -1,0 +1,1 @@
+{"id": "w1n", "family": "웹조사", "level": 3, "desc": "웹 조사 재실행 — 조사 지침의 '도구 15회 이내' 상한만 없앤 조건", "tools": "Bash,Read,Edit,Write,Glob,Grep,WebSearch,WebFetch", "budget": 6.0, "timeout": 2400}

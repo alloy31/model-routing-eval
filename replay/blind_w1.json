@@ -1,0 +1,168 @@
+{
+ "kind": "w1",
+ "letters": {
+  "haiku": "A",
+  "fable": "B",
+  "sonnet": "C",
+  "opus": "D"
+ },
+ "judges": {
+  "fable": 1.4109338,
+  "opus": 0.6869862,
+  "sonnet": 0.3423415
+ },
+ "table": {
+  "haiku": {
+   "fable": {
+    "scores": {
+     "coverage": 3,
+     "sourcing": 4,
+     "depth": 4,
+     "honesty": 8,
+     "usefulness": 3
+    },
+    "mean": 4.4,
+    "rank": 4,
+    "comment": "한계와 미조사 범위를 솔직히 밝혔고 Oblivion의 '효율적 레벨링'과 적 스케일링을 구분한 점은 좋다. 그러나 요청된 게임의 절반 이상을 조사하지 않았고 대부분 2차 요약이어서 보고서 재료로는 가장 빈약하다."
+   },
+   "opus": {
+    "scores": {
+     "coverage": 3,
+     "sourcing": 4,
+     "depth": 4,
+     "honesty": 9,
+     "usefulness": 3
+    },
+    "mean": 4.6,
+    "rank": 4,
+    "comment": "조사 범위와 미확인 항목을 가장 투명하게 밝혔고, Oblivion '레벨링 문제'의 두 층위(효율 레벨링과 월드 스케일링)를 구분한 점이 좋다. 그러나 요청 게임의 절반 이상을 아예 다루지 않았고, 근거 대부분이 [2차] 요약이라 보고서 재료로는 가장 빈약하다."
+   },
+   "sonnet": {
+    "scores": {
+     "coverage": 4,
+     "sourcing": 5,
+     "depth": 4,
+     "honesty": 8,
+     "usefulness": 4
+    },
+    "mean": 5.0,
+    "rank": 4,
+    "comment": "도구 호출 14회라는 제한 때문에 요청 게임 상당수(Dungeon Siege, Quest 64, SaGa, Kenshi, RuneScape, Zomboid, DF 등)가 조사되지 않았고, 확인한 항목도 대부분 [2차]다. 한계를 솔직히 밝혔지만 보고서 재료로는 얇다."
+   }
+  },
+  "fable": {
+   "fable": {
+    "scores": {
+     "coverage": 9,
+     "sourcing": 8,
+     "depth": 9,
+     "honesty": 8,
+     "usefulness": 9
+    },
+    "mean": 8.6,
+    "rank": 1,
+    "comment": "요청된 게임을 전부 다룬 유일한 문서로, Kawazu 인터뷰·Koster의 Jedi Saga와 Laws·UO Publish 4/16 노트·Pardo의 휴식 경험치 등 1차 인용과 구체 수치가 가장 풍부하고 EVE 반작용 전제가 미확인임도 밝혔다. UESP·TaleWorlds·Zomboid 수치가 검색 요약 의존이고 SWG NGE URL이 맞지 않는 것이 약점이나 스스로 표시했다."
+   },
+   "opus": {
+    "scores": {
+     "coverage": 10,
+     "sourcing": 9,
+     "depth": 9,
+     "honesty": 8,
+     "usefulness": 9
+    },
+    "mean": 9.0,
+    "rank": 1,
+    "comment": "요청 게임을 사실상 모두 다뤘고, 근거를 1차 출처로 열람해 확인했다(UO Publish 4/16 패치노트, Koster 'A Jedi Saga'와 Laws, Kawazu 인터뷰, CCP Learning 스킬 블로그, Pardo GDC). Daggerfall 공식, GGS 타이머 표, Skyrim 1.5/1.9 패치 등 수치 밀도가 가장 높다. 일부 수치는 검색 요약 의존이고 NGE URL이 어긋나지만, 둘 다 스스로 표시했다."
+   },
+   "sonnet": {
+    "scores": {
+     "coverage": 9,
+     "sourcing": 9,
+     "depth": 9,
+     "honesty": 9,
+     "usefulness": 9
+    },
+    "mean": 9.0,
+    "rank": 1,
+    "comment": "거의 모든 요청 게임을 다루고 Koster(UO·SWG·Jedi), UO 패치노트(Publish 4·16), Kawazu, Johnson, Howard·Nesmith, CCP 발언 등 1차 인용과 구체 수치가 가장 풍부하다. [열람]/[검색요약]/[통념] 구분과 Gaps도 정직하고, Koster의 Laws와 Hopson 등 학술·GDC 단서까지 있다."
+   }
+  },
+  "sonnet": {
+   "fable": {
+    "scores": {
+     "coverage": 6,
+     "sourcing": 6,
+     "depth": 6,
+     "honesty": 9,
+     "usefulness": 6
+    },
+    "mean": 6.6,
+    "rank": 3,
+    "comment": "확인 수준 태그가 가장 엄격하고, NGE의 문서화된 동기가 구독자 감소였다는 점과 EVE 반작용설이 커뮤니티 통념이라는 점을 짚은 것이 강점이다. Kawazu·Howard 발언을 Wikipedia나 미검증 요약으로만 다뤘고 Power Hour·Dungeon Siege 규칙·Daggerfall이 빠져 깊이가 B·D보다 얕다."
+   },
+   "opus": {
+    "scores": {
+     "coverage": 7,
+     "sourcing": 7,
+     "depth": 7,
+     "honesty": 9,
+     "usefulness": 7
+    },
+    "mean": 7.4,
+    "rank": 3,
+    "comment": "출처 비판이 가장 꼼꼼하다. GGS 페이지가 매크로를 동기로 언급하지 않는다는 점, NGE의 문서화된 동기가 구독자 감소라는 점, EVE 반작용설이 통념이라는 점을 짚었다. 다만 UESP 차단으로 Elder Scrolls 수치를 Wikipedia로 대체했고, Kenshi·Bannerlord·KCD 등은 커뮤니티 자료 위주라 깊이가 B와 D보다 얕다."
+   },
+   "sonnet": {
+    "scores": {
+     "coverage": 7,
+     "sourcing": 7,
+     "depth": 7,
+     "honesty": 9,
+     "usefulness": 7
+    },
+    "mean": 7.4,
+    "rank": 3,
+    "comment": "UESP 차단 등 접근 제약과 출처 충돌, 헤드라인만 확인한 항목을 가장 투명하게 밝혔고 UO GGS 세부 분석이 좋다. 다만 Kawazu 등 일부는 Wikipedia 경유이고 Power Hour 정의나 Koster Laws를 확보하지 못해 B·D보다 깊이와 1차 확보가 떨어진다."
+   }
+  },
+  "opus": {
+   "fable": {
+    "scores": {
+     "coverage": 7,
+     "sourcing": 7,
+     "depth": 7,
+     "honesty": 7,
+     "usefulness": 8
+    },
+    "mean": 7.2,
+    "rank": 2,
+    "comment": "Kawazu·Howard·Nesmith 직접 인용과 UO 패치노트를 확보했고 추론 절의 설계 체크리스트가 인디 개발자 보고서에 바로 쓸 만하다. Quest 64·Daggerfall·DF 모험 모드가 비어 있고, [1차] 태그가 검색 스니펫으로만 확인한 항목에도 붙어 있으며, Power Hour 도입 시점이 B가 인용한 공식 노트와 충돌한다."
+   },
+   "opus": {
+    "scores": {
+     "coverage": 8,
+     "sourcing": 8,
+     "depth": 8,
+     "honesty": 8,
+     "usefulness": 9
+    },
+    "mean": 8.2,
+    "rank": 2,
+    "comment": "UO Publish 13으로 Power Hour 정의를 1차 확인했고, Howard의 'wrong skills' 발언과 RuneScape 봇 대응 연표 등 다른 문서에 없는 재료가 있다. 인디 개발자용 7항목 설계 체크리스트가 바로 쓸 수 있는 형태다. Quest 64, Daggerfall/Morrowind 수치, DF 모험 모드 세부는 비어 있다."
+   },
+   "sonnet": {
+    "scores": {
+     "coverage": 8,
+     "sourcing": 8,
+     "depth": 8,
+     "honesty": 8,
+     "usefulness": 9
+    },
+    "mean": 8.2,
+    "rank": 2,
+    "comment": "UO Power Hour(Publish 13) 공식 노트, Kawazu의 SaGa 대응, Howard 인용, RuneScape 봇 연표 등 구체적이고 인디 개발자용 설계 체크리스트가 바로 쓸 만하다. 학술·GDC 자료와 Koster Laws 확인은 B보다 약하다."
+   }
+  }
+ }
+}

@@ -1,0 +1,5 @@
+runs/
+mr-work/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,119 @@
+{
+ "kind": "w1b",
+ "letters": {
+  "fable": "A",
+  "opus": "B",
+  "haiku_nocap": "C",
+  "sonnet_nocap": "D"
+ },
+ "judges": {
+  "opus": 0.9001338,
+  "sonnet": 0.4381429
+ },
+ "table": {
+  "fable": {
+   "opus": {
+    "scores": {
+     "coverage": 9,
+     "sourcing": 8,
+     "depth": 9,
+     "honesty": 9,
+     "usefulness": 9
+    },
+    "mean": 8.8,
+    "rank": 2,
+    "comment": "[열람]/[검색요약]/[통념] 표기가 일관되고, Koster의 Jedi Saga·UO Publish 4/16·Skyrim 1.5/1.9·EVE Learning 스킬 제거·WoW 휴식 시스템 등 대응 사례가 가장 폭넓다. UESP·Stratics 수치는 검색 요약에 의존한다."
+   },
+   "sonnet": {
+    "scores": {
+     "coverage": 9,
+     "sourcing": 7,
+     "depth": 8,
+     "honesty": 8,
+     "usefulness": 8
+    },
+    "mean": 8.0,
+    "rank": 3,
+    "comment": "WoW 휴식 XP(Pardo), Zagal & Altizer, Skyrim 패치 1.5/1.9, Koster의 SWG 글 등 폭이 넓고 열람/검색요약/통념 구분이 명확하다. 다만 상당수가 검색요약에 의존하고 일부 URL이 어긋나 있어 1차 열람의 깊이는 얕다."
+   }
+  },
+  "opus": {
+   "opus": {
+    "scores": {
+     "coverage": 7,
+     "sourcing": 6,
+     "depth": 6,
+     "honesty": 8,
+     "usefulness": 7
+    },
+    "mean": 6.8,
+    "rank": 4,
+    "comment": "UO Power Hour의 Publish 13 세부와 실무 체크리스트가 쓸모 있고 FFII 통념 과장 가능성까지 짚었다. 그러나 Daggerfall/Morrowind 수식·Quest 64를 확보하지 못했고, Reddit 미러·불명확한 Nexus 가이드 같은 약한 출처가 섞이며 학술 섹션이 얇다."
+   },
+   "sonnet": {
+    "scores": {
+     "coverage": 8,
+     "sourcing": 7,
+     "depth": 6,
+     "honesty": 8,
+     "usefulness": 7
+    },
+    "mean": 7.2,
+    "rank": 4,
+    "comment": "Q&A 구성과 인디 개발자용 체크리스트는 실용적이고 Gaps도 솔직하다. 하지만 게임별 수치와 규칙이 가장 얇고(특히 Skyrim, 학술 부분), Nexus·Reddit 같은 커뮤니티 자료 비중이 높다."
+   }
+  },
+  "haiku_nocap": {
+   "opus": {
+    "scores": {
+     "coverage": 8,
+     "sourcing": 7,
+     "depth": 7,
+     "honesty": 9,
+     "usefulness": 7
+    },
+    "mean": 7.6,
+    "rank": 3,
+    "comment": "학술 자료(SDT, Yee, Consalvo, Meades, Backus, Schubert GDC)가 가장 풍부하고 RPG Codex 풍자 기사 경고 같은 고유한 정직성이 돋보인다. 반면 FFII를 2차 분석에 기대고 검색요약 의존이 많으며, Morrowind/Oblivion 레벨업 규칙을 섞어 서술하는 부정확함이 있다."
+   },
+   "sonnet": {
+    "scores": {
+     "coverage": 9,
+     "sourcing": 8,
+     "depth": 8,
+     "honesty": 10,
+     "usefulness": 8
+    },
+    "mean": 8.6,
+    "rank": 2,
+    "comment": "출처 등급 체계가 가장 세밀하고 RPG Codex 풍자 기사 경고, Remastered 보도 충돌, Yang & Cho 논문 한계 지적 등 정직성이 두드러진다. 학술 자료(SDT, Yee, Meades, Consalvo, Schubert GDC)도 가장 폭넓다. 다만 Skyrim 메커니즘과 상세 수치는 D보다 약하다."
+   }
+  },
+  "sonnet_nocap": {
+   "opus": {
+    "scores": {
+     "coverage": 9,
+     "sourcing": 9,
+     "depth": 10,
+     "honesty": 9,
+     "usefulness": 9
+    },
+    "mean": 9.2,
+    "rank": 1,
+    "comment": "Wayback으로 UO 2001 Team Comment·UESP·TaleWorlds 블로그를 직접 열어 power hour 부작용, Oblivion 'Leveling Problem', Skyrim XP 곡선 등을 원문 수준으로 확보했고, De Paoli 논문도 고유하다. SWG Jedi 사례를 Koster 원문이 아닌 Wikipedia로 인용했고 Skyrim 1.5 Smithing 패치·EVE Learning 스킬이 빠졌다."
+   },
+   "sonnet": {
+    "scores": {
+     "coverage": 9,
+     "sourcing": 9,
+     "depth": 10,
+     "honesty": 9,
+     "usefulness": 9
+    },
+    "mean": 9.2,
+    "rank": 1,
+    "comment": "Wayback으로 막힌 1차 자료를 직접 읽었고 UESP 수치, Oblivion 'Leveling Problem', Skyrim XP 곡선, Kenshi Steam 선언, RuneScape 안티매크로 연표 등 구체성이 가장 높다. Johnson/Koster 인용도 풍부하며, 학술·GDC 부분(De Paoli, Yee)은 C보다 좁다."
+   }
+  }
+ }
+}

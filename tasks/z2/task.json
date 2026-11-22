@@ -1,0 +1,1 @@
+{"id": "z2", "family": "구현", "level": 6, "desc": "SQLite와 결과가 같은 SQL 엔진 구현(무작위 질의 500건 대조)", "budget": 10.0, "timeout": 3000}

@@ -1,0 +1,4 @@
+{
+  "http": {"timeout": 20, "retries": 2},
+  "features": {"bulk_quotes": true}
+}

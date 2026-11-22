@@ -1,0 +1,1 @@
+{"id": "x4", "family": "추론", "level": 4, "desc": "a²+b²≡0 (mod 91) 순서쌍 개수", "tools": "none", "budget": 2.5, "timeout": 1500}

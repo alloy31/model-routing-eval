@@ -1,0 +1,1 @@
+{"id": "x2", "family": "추론", "level": 3, "desc": "제너레이터 send/throw/finally 순서 추적", "tools": "none", "budget": 2.5, "timeout": 1500}
